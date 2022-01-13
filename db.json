@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "persons": [
+    { "first_name": "joe", "last_name": "doe",
+     "age": 26 ,
+     "id": 3, 
+     "Address": "Avent Ferry Rd"
+     "phone Number": "7873826786"
+    },
+  
+    {"first_name": "ram",
+     "last_name": "ji",
+     "id": 2,
+     "Address": "champion ct",
+     "phone number" : "2324-323" }
+    
+  ]
+  
+
 }
